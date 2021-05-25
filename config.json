@@ -1,0 +1,7 @@
+{
+    "ScriptFolder": [
+        "00_PreScripts",
+        "01_SeedData",
+        "02_PostScripts"
+    ]
+}
